@@ -9,7 +9,7 @@ type User = {
         // Оновлення користувача
         
         const defaultValue: User = {
-            name: 'Bob',
+            name: 'Top',
             surname: 'Gear',
             email: '',
             password: '',
